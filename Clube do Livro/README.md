@@ -2,7 +2,7 @@
 
 Nesse projeto a Helô, que é a proprietária do Clube de Livros, nos pediu para fazer algumas análise.
 
-* **Link para o Deashboard é** https://bit.ly/3S7EveX
+* **Link para o Dashboard é** https://bit.ly/3S7EveX
 
 Aqui você pode ver uma amostra de como ficou!
 
