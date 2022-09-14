@@ -6,4 +6,6 @@ o lucro de cada mês. Além disso, eles querem que mostremos os produtos que ele
 Aqui você pode ver uma palhinha de como ficou!
 
 
-
+<p align="center">
+  <img src="https://github.com/vitorrosar02/Power-BI/blob/main/Alurapets/Screenshot_1.png" >
+</p>
