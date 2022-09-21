@@ -5,3 +5,4 @@ Nesse projeto tinhamos uma loja de venda de livros e queriamos fazer um dashboar
 
 O principal foco nesse dash foi a criação de medidas utilizando a linguagem DAX. Foi muito enriquecedor esse curso e fiquei extremamente feliz com o resultado final. 
 
+* ** Link para o dashboard ** https://bit.ly/3LxJ4gF
